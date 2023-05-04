@@ -5,7 +5,7 @@ public class Application {
     private GUIFactory factory;
 
     public static void main(String[] args) {
-
+        System.out.print("Hello");
     }
 
     public Application(GUIFactory guiFactory){
