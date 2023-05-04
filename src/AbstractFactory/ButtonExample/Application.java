@@ -4,6 +4,10 @@ public class Application {
     private Button button;
     private GUIFactory factory;
 
+    public static void main(String[] args) {
+
+    }
+
     public Application(GUIFactory guiFactory){
         this.factory=guiFactory;
     }
